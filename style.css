@@ -1,0 +1,104 @@
+img {
+    width: 50%;
+    height: 40%;
+    margin-bottom: 0.75%
+}
+
+body {
+    background-color: rgb(37, 37, 37);
+    background-image: url("https://car-images.bauersecure.com/wp-images/2672/ferrari_purosangue_34.jpg");
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: #04AA6D;
+    color: #f2f2f2;
+    margin: 0%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    font-family: "Garamond", "Times New Roman", serif;
+}
+
+h3 {
+    background-color: #f2f2f2;
+    color: rgb(37, 37, 37);
+    margin-top: 0%;
+    text-align: center;
+    font-family: "Garamond", "Times New Roman", serif;
+}
+
+p {
+    color: #f2f2f2;
+    text-align: center;
+    font-family: "Monaco", "Lucida Console", sans-serif;
+    float: right;
+    font-size: 25px;
+}
+
+h2 {
+    background-color: rgb(37, 37, 37);
+    color: #f2f2f2;
+    text-align: center;
+    font-family: "Monaco", "Lucida Console", sans-serif;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h4 {
+    background-color: #f2f2f2;
+    color: rgb(37, 37, 37);
+    margin-bottom: 0%;
+    margin-top: 0%;
+    text-align: center;
+    font-family: "Garamond", "Times New Roman", serif;
+}
+
+button {
+    border-color: #f2f2f2;
+    background-color: rgb(37, 37, 37);
+    color: #f2f2f2;
+    font-family: "Monaco", "Lucida Console", sans-serif;
+    text-align: center;
+    padding-right: 48%;
+    padding-left: 48%;
+}
+
+button:hover {
+    background-color: #04AA6D;
+}
+
+div {
+    text-align: center;
+}
+
+#slogan {
+    margin-bottom: 0%;
+    color:#f2f2f2;
+    background-color: #04AA6D;
+    padding-bottom: 0.5%;
+}
+
+#buy1 {
+    text-align: center;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+#buy2 {
+    text-align: center;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+h6 {
+    text-align: center;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    color: #f2f2f2;
+    text-align: center;
+    font-family: "Monaco", "Lucida Console", sans-serif;
+    font-size: 25px;
+}
