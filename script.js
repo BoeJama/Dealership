@@ -2,7 +2,7 @@ function buy1() {
     var txt1;
     txt1=""
     document.getElementById("buy1").innerHTML = txt1;
-    if (confirm("Would you lik to purchase a Ford Model T?")) {
+    if (confirm("Would you like to purchase a Ford Model T?")) {
         txt1 = "Purchase Confirmed";}
         else {
             txt1 = "Purchase Canceled";
